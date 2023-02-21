@@ -1,0 +1,19 @@
+{
+  "name": "residensilamansari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "captchaMod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http-server": "^14.1.1",
+    "jquery-datetimepicker": "^2.5.21",
+    "request": "^2.88.0"
+  }
+}
